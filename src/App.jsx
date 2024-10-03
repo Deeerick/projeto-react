@@ -1,13 +1,12 @@
 import { useState } from 'react'
 import './App.css'
-import Tasks from './components/Tasks'
+import Login from './components/Login/Login'
 
 function App() {
 
   return (
     <div>
-      <h1>Gerenciador de Tarefas</h1>
-      <Tasks />
+      <Login />
     </div>
   );
 }
