@@ -1,5 +1,5 @@
 import { FaUser, FaLock } from "react-icons/fa";
-import catImage from "./cat-01.png";
+import catImage from "./logo-cat.png";
 
 const Login = () => {
   return (
